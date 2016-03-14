@@ -11,18 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wkwiatek/angularjs-livechat.git"
+    "url": "git+https://github.com/livechat/angularjs-livechat.git"
   },
   "keywords": [
+    "angular",
     "angularjs",
     "livechat"
   ],
   "author": "wkwiatek <wojtek.kwiatek@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wkwiatek/angularjs-livechat/issues"
+    "url": "https://github.com/livechat/angularjs-livechat/issues"
   },
-  "homepage": "https://github.com/wkwiatek/angularjs-livechat#readme",
+  "homepage": "https://github.com/livechat/angularjs-livechat#readme",
   "devDependencies": {
     "uglify-js": "^2.6.2"
   }
