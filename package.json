@@ -1,6 +1,6 @@
 {
   "name": "angularjs-livechat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "AngularJS component to integrate LiveChat with your single-page app",
   "main": "lib/angularjs-livechat.js",
   "scripts": {
