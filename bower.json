@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-livechat",
+  "description": "AngularJS component to integrate LiveChat with your single-page app",
+  "main": "lib/angularjs-livechat.js",
+  "authors": [
+    "wkwiatek <wojtek.kwiatek@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "livechat"
+  ],
+  "homepage": "https://github.com/tam-vo/angularjs-livechat",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
